@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "tulparphoto",
+      "name": "JebrPhoto",
+      "tagline": "Görsel Düzenleme",
+      "description": "Katmanlar, maskeler ve PSD desteğiyle tanıdık bir fotoğraf editörü.",
+      "repo": "tulparstudio/jebr-photo-releases",
+      "asset": "jebrphoto-*-windows-x64-portable.zip",
+      "exe": "jebrphoto.exe",
+      "icon": "assets/apps/tulparphoto.webp",
+      "accent": [
+        "#9fd0ff",
+        "#4aa8f0"
+      ],
+      "fileTypes": [
+        "psd",
+        "psb",
+        "jphoto",
+        "pcraft",
+        "png",
+        "jpg",
+        "jpeg",
+        "webp",
+        "gif",
+        "bmp",
+        "tif",
+        "tiff",
+        "heic",
+        "heif",
+        "tga",
+        "ico",
+        "svg",
+        "kra",
+        "xcf",
+        "ora",
+        "pdn",
+        "exr",
+        "hdr",
+        "dng",
+        "cr2",
+        "cr3",
+        "nef",
+        "arw",
+        "orf",
+        "rw2",
+        "raf"
+      ]
+    },
+    {
+      "id": "tulparvideo",
+      "name": "JebrVideo",
+      "tagline": "Video Düzenleme",
+      "description": "Zaman çizelgesi, geçişler ve efektlerle tanıdık bir video editörü.",
+      "repo": "tulparstudio/jebr-video-releases",
+      "asset": "jebrvideo-*-windows-x64-portable.zip",
+      "exe": "jebrvideo.exe",
+      "icon": "assets/apps/tulparvideo.webp",
+      "accent": [
+        "#d9c2ff",
+        "#b07cf2"
+      ],
+      "fileTypes": [
+        "fcproj",
+        "mp4",
+        "m4v",
+        "mov",
+        "mkv",
+        "webm",
+        "avi",
+        "mts",
+        "m2ts",
+        "mpg",
+        "mpeg",
+        "3gp"
+      ]
+    },
+    {
+      "id": "tulparpdf",
+      "name": "JebrPDF",
+      "tagline": "PDF Düzenleme",
+      "description": "Düzenleme, birleştirme, form ve imza araçlarıyla tanıdık bir PDF editörü.",
+      "repo": "tulparstudio/jebr-pdf-releases",
+      "asset": "jebrpdf-*-windows-x64-portable.zip",
+      "exe": "jebrpdf.exe",
+      "icon": "assets/apps/tulparpdf.webp",
+      "accent": [
+        "#ffb0b0",
+        "#ef5b5b"
+      ],
+      "fileTypes": [
+        "pdf"
+      ]
+    },
+    {
+      "id": "jebrword",
+      "name": "JebrWord",
+      "tagline": "Kelime İşlemci",
+      "description": "Biçimlendirme, tablolar, yorumlar ve DOCX desteğiyle tanıdık bir kelime işlemci.",
+      "repo": "tulparstudio/jebr-word-releases",
+      "asset": "jebrword-*-windows-x64-portable.zip",
+      "exe": "jebrword.exe",
+      "icon": "assets/apps/jebrword.webp",
+      "accent": [
+        "#c5c9ff",
+        "#8b93ff"
+      ],
+      "fileTypes": [
+        "docx",
+        "docm",
+        "dotx",
+        "doc",
+        "rtf",
+        "odt",
+        "txt",
+        "md"
+      ]
+    },
+    {
+      "id": "jebrsheet",
+      "name": "JebrSheet",
+      "tagline": "Hesap Tablosu",
+      "description": "Formüller, grafikler, pivot tablolar ve XLSX desteğiyle tanıdık bir hesap tablosu.",
+      "repo": "tulparstudio/jebr-sheet-releases",
+      "asset": "jebrsheet-*-windows-x64-portable.zip",
+      "exe": "jebrsheet.exe",
+      "icon": "assets/apps/jebrsheet.webp",
+      "accent": [
+        "#a8ebc8",
+        "#3fbf7f"
+      ],
+      "fileTypes": [
+        "xlsx",
+        "xlsm",
+        "xltx",
+        "xls",
+        "ods",
+        "csv",
+        "tsv"
+      ]
+    },
+    {
+      "id": "jebrslide",
+      "name": "JebrSlide",
+      "tagline": "Sunum",
+      "description": "Temalar, geçişler, animasyonlar ve PPTX desteğiyle tanıdık bir sunum programı.",
+      "repo": "tulparstudio/jebr-slide-releases",
+      "asset": "jebrslide-*-windows-x64-portable.zip",
+      "exe": "jebrslide.exe",
+      "icon": "assets/apps/jebrslide.webp",
+      "accent": [
+        "#f8c49c",
+        "#f08a3c"
+      ],
+      "fileTypes": [
+        "pptx",
+        "pptm",
+        "potx",
+        "ppt",
+        "odp"
+      ]
+    }
+  ]
+}
